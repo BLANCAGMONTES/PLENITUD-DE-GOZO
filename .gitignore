@@ -1,0 +1,11 @@
+# Notas internas: no se publican (el repositorio es publico)
+LEEME.md
+google-apps-script.js
+
+# Imagen original sin optimizar (4.9 MB). La pagina usa assets/portada.jpg
+assets/Portada estilo renacentista Manual.png
+
+# Basura del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
